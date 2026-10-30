@@ -209,10 +209,6 @@ Model Context Protocol.
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
 ---
 
 > 🧪 **Automate what is repetitive. Investigate what is complex.
