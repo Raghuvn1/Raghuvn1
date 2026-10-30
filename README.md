@@ -202,6 +202,3 @@ Model Context Protocol.
 ## 🤝 Let's Connect
 
 ---
-
-> 🧪 **Automate what is repetitive. Investigate what is complex.
-> Let AI handle what comes next.**
