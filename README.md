@@ -1,7 +1,10 @@
 # Hi 👋, I'm Raghu 
+<h5 align="left"> 🎭Automate what is repetitive.🔍Investigate what is complex. 🤖 Let AI handle what comes next.
+</h5>
 
 ### SDET | Playwright & TypeScript | CI/CD | BDD | AI-Assisted Testing
 
+---
 I'm a Software Development Engineer in Test focused on building scalable,
 maintainable, and intelligent test automation solutions.
 
@@ -196,17 +199,6 @@ Experiments connecting AI agents with testing tools through
 Model Context Protocol.
 
 ---
-
-## 📈 GitHub Stats
-
-![Raghu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 ---
